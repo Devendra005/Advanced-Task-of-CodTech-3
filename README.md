@@ -34,3 +34,6 @@ The stylized image, which merges the content of the content image and the style 
 2) Practical experience in Python-based deep learning frameworks like TensorFlow or PyTorch.
 3) Insights into optimization techniques and loss functions.
 4) Knowledge of computer vision applications and artistic AI techniques.
+
+**Result**
+![Screenshot 2025-01-12 173109](https://github.com/user-attachments/assets/9d7d00de-4261-4489-b2fb-19f06d30feca)
